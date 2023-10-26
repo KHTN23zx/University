@@ -1,0 +1,55 @@
+parent(marry, bill).
+parent(tom, bill).
+parent(tom, liz).
+parent(bill, ann).
+parent(bill, sue).
+parent(sue, jim).
+
+woman(marry).
+woman(liz).
+woman(sue).
+woman(ann).
+man(tom).
+man(bill).
+man(jim).
+
+child(Y, X) :- parent(X, Y).
+mother(X, Y) :- parent(X, Y), woman(X).
+grandparent(X, Z):- parent(X, Y), parent(Y, Z).
+sister(X, Y) :- parent(Z, X), parent(Z, Y), woman(X).
+
+/*
+Bài 1
+a. Câu querry: ?- parent(jim, X).
+   Kết quả prolog: false.
+
+b. Câu querry: ?- parent(X, jim).
+   Kết quả prolog: X = sue.
+
+c. Câu querry: ?- parent(marry, X), parent(X, part).
+   Kết quả prolog: false.
+
+d. Câu querry: ?- parent(marry, X), parent(X, y), parent(y, jim).
+   Kết quả prolog: false.
+
+Bài 2
+a. Câu hỏi: Ai là cha mẹ của Bill?
+Mệnh đề Prolog: ?- parent(X, bill).
+Kết quả prolog: X = marry ;
+                X = tom.
+Suy ra Marry va Tom la cha me cua Bill
+
+b. Câu hỏi: Marry có con không?
+Mệnh đề Prolog: ?- parent(marry, Y)
+Kết quả prolog: Y = bill.
+Suy ra Marry có con là Bill
+
+c. Câu hỏi:  Ai là ông bà (grandparent) của Sue?
+Mệnh đề Prolog: ?- grandparent(Z, sue).
+Kết quả prolog: Z = marry ;
+                Z = tom ;
+                false.
+Suy ra Marry và Tom là ông bà của Sue
+
+*/
+
