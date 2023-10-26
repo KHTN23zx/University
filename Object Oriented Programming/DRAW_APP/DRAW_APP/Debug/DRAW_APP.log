@@ -1,0 +1,49 @@
+﻿  CrescentMoon.cpp
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\CrescentMoon.cpp(31,26): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\CrescentMoon.cpp(34,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\CrescentMoon.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\CrescentMoon.cpp(19,9): warning C4101: 'phi': unreferenced local variable
+  DRAW_APP.cpp
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\DRAW_APP.cpp(151,17): warning C4101: 'i': unreferenced local variable
+  Ellipse.cpp
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.cpp(59,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.cpp(59,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Polygon.cpp
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Polygon.cpp(124,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Polygon.cpp(124,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Polygon.cpp(149,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Polygon.cpp(150,28): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  Quadrangle.cpp
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SemiCircle.cpp
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\SemiCircle.cpp(14,31): warning C4018: '<=': signed/unsigned mismatch
+  Triangle.cpp
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,121): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,106): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Ellipse.h(42,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  DRAW_APP.vcxproj -> C:\Users\MY\OneDrive - VNU-HCMUS\Desktop\du bao\OOP BaiTaplon\DRAW_APP\Debug\DRAW_APP.exe
